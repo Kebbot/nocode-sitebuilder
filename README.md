@@ -221,14 +221,4 @@ VITE_API_BASE=/api
 
 ---
 
-## Roadmap
-- ZeroBlock как контейнер (вложенные элементы)
-- HeroBlock / GridBlock
-- Undo / Redo
-- Масштабирование Canvas
-- Публикация сайта напрямую из редактора
 
----
-
-## Лицензия
-MIT
